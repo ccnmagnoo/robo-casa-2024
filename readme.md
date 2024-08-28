@@ -21,5 +21,5 @@ antecendentes denuncia _Parte *Nro 1766*_
 
 puedes escribirme enviando un
 
-> - [whatsapp](http://whatsapp.me/56948611376?text=Por%20el%20asunto%20del%20robo)
+> - [whatsapp](https://wa.me/56948611376?text=Por%20el%20asunto%20del%20robo)
 > - [o enviado un correo](mailto:crcamposn@gmail.com?subject=Información%20Robo&cc=ccamposn@minenergia.cl)
