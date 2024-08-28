@@ -20,10 +20,10 @@ antecendentes denuncia _Parte *Nro 1766*_
 ### Sospechosos
 
 <img src="captura_14.11.51.png" alt="drawing" width="450"/><br/>
-<img src="captura_14.11.56_Carlos_Jara.png" alt="drawing" style="width:200px;height:300px;object-fit:cover;"/>
-<img src="captura_14.12.03_Isma_Ossas.png" alt="drawing" style="width:200px;height:300px;object-fit:cover;"/></br>
-<img src="sospechoso_foto_03_Carlos_Jara.jpg" alt="drawing"  style="width:200px;height:300px;object-fit:cover;"/>
-<img src="sospechoso_foto_05_Isma_Ossa.jpeg" alt="drawing" style="width:200px;height:300px;object-fit:cover;"/>
+<img src="captura_14.11.56_Carlos_Jara.png" alt="drawing" style="width:180px;height:300px;object-fit:cover;"/>
+<img src="captura_14.12.03_Isma_Ossas.png" alt="drawing" style="width:180px;height:300px;object-fit:cover;"/></br>
+<img src="sospechoso_foto_03_Carlos_Jara.jpg" alt="drawing"  style="width:180px;height:300px;object-fit:cover;"/>
+<img src="sospechoso_foto_05_Isma_Ossa.jpeg" alt="drawing" style="width:180px;height:300px;object-fit:cover;"/>
 
 ### Contacto
 
