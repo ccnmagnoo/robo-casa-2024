@@ -5,10 +5,15 @@
 Robo de lugar habitado con fecha 27-08-2024 a las 14:11 hrs. forzado de y rotura de
 puestas, robo de enceres y vehículos ATV.
 
-Sector Tabolango Ruta F630 altura del km 0700 (700 mt del Cristo de Tabolango), Limache.
-antecendentes denuncia _Parte *Nro 1766*_
+[Sector Tabolango Ruta F630 km 0700](https://maps.app.goo.gl/58wpxTvFEtXESE5K9) (700 mt
+del Cristo de Tabolango), Limache.
 
-### video del robo
+## caso
+
+> - Denuncia _Parte *Nro 1766*_ 3ra Comisaría de Limache
+> - Fiscalía _RUC Fiscalía_ 2401018569-2
+
+### Video del robo
 
 - [ver video forcejeo](./VIDEO_2024-08-27_14.11hrs_inicio_robo.mp4)
 - [ver video ingreso](./VIDEO_2024-08-27_14.14hrs_acceso_forzado.mp4)
